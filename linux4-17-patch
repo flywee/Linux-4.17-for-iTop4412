@@ -1,0 +1,23 @@
+diff -uprN linux-4.17-OK/include/generated/compile.h linux-4.17_new/include/generated/compile.h
+--- linux-4.17-OK/include/generated/compile.h	2018-11-13 22:51:59.961731336 +0800
++++ linux-4.17_new/include/generated/compile.h	2018-11-12 22:39:54.032030808 +0800
+@@ -1,7 +1,7 @@
+ /* This file is auto generated, version 1 */
+ /* SMP PREEMPT */
+ #define UTS_MACHINE "arm"
+-#define UTS_VERSION "#1 SMP PREEMPT Tue Nov 13 22:51:59 CST 2018"
++#define UTS_VERSION "#1 SMP PREEMPT Mon Nov 12 10:52:27 CST 2018"
+ #define LINUX_COMPILE_BY "book"
+ #define LINUX_COMPILE_HOST "book-virtual-machine"
+-#define LINUX_COMPILER "gcc version 4.4.1 (Sourcery G++ Lite 2009q3-67)"
++#define LINUX_COMPILER "gcc version 4.9.4 (Linaro GCC 4.9-2017.01)"
+Binary files linux-4.17-OK/scripts/asn1_compiler and linux-4.17_new/scripts/asn1_compiler differ
+Binary files linux-4.17-OK/scripts/basic/fixdep and linux-4.17_new/scripts/basic/fixdep differ
+Binary files linux-4.17-OK/scripts/conmakehash and linux-4.17_new/scripts/conmakehash differ
+Binary files linux-4.17-OK/scripts/dtc/dtc and linux-4.17_new/scripts/dtc/dtc differ
+Binary files linux-4.17-OK/scripts/extract-cert and linux-4.17_new/scripts/extract-cert differ
+Binary files linux-4.17-OK/scripts/kallsyms and linux-4.17_new/scripts/kallsyms differ
+Binary files linux-4.17-OK/scripts/mod/mk_elfconfig and linux-4.17_new/scripts/mod/mk_elfconfig differ
+Binary files linux-4.17-OK/scripts/mod/modpost and linux-4.17_new/scripts/mod/modpost differ
+Binary files linux-4.17-OK/scripts/pnmtologo and linux-4.17_new/scripts/pnmtologo differ
+Binary files linux-4.17-OK/scripts/sortextable and linux-4.17_new/scripts/sortextable differ
